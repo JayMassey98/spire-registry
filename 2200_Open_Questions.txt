@@ -1,0 +1,29 @@
+[2200] OPEN QUESTIONS
+=====================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the authoritative owner of the project's outstanding
+questions, unresolved decisions, and investigations.
+
+QUESTIONS
+---------
+
+    To be completed.
+
+DECISIONS
+---------
+
+    To be completed.
+
+INVESTIGATIONS
+--------------
+
+    To be completed.
+
+END OF [2200] OPEN QUESTIONS
+============================

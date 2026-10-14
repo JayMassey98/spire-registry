@@ -1,0 +1,76 @@
+[2000] RESOLUTIONS IN PROGRESS
+==============================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the top-level owner for the Resolutions In Progress series,
+defining its scope and organisation.
+
+The Resolutions In Progress series contains topics that are not yet fully
+settled and require ongoing assessment, investigation, validation, or
+decision-making.
+
+SYSTEM GOVERNANCE
+-----------------
+The Resolutions In Progress series is part of the wider knowledge-base system.
+
+Ownership boundaries, hierarchy relationships, and evolution are defined in:
+
+    [0000] REGISTRY OVERVIEW
+
+CONTENT RULE
+------------
+Information in the Resolutions In Progress series will evolve over time.
+
+The series includes:
+
+- current project status
+- current project position
+- open questions
+- unresolved decisions
+- active investigations
+- pending validation
+- known uncertainties
+
+The series does not normally contain:
+
+- established knowledge
+- enduring reference information
+- active execution activities
+- action lists
+- supportive evidence
+- forensic analysis
+
+SERIES CONTENTS
+---------------
+
+[2100] CURRENT PROJECT STATE
+
+    Current project position, status, metrics, and progress indicators.
+
+[2200] OPEN QUESTIONS
+
+    Outstanding questions, unresolved decisions, and investigations.
+
+RESOLUTIONS IN PROGRESS RULE
+----------------------------
+Information should remain within the Resolutions In Progress series while
+significant uncertainty, investigation, or decisions remain ongoing.
+
+Resolution may involve:
+
+- gathering additional evidence
+- performing validation activities
+- answering open questions
+- resolving contradictions
+- reaching project decisions
+
+Only information considered sufficiently understood, validated and stable
+should become part of the Knowledge Established series.
+
+END OF [2000] RESOLUTIONS IN PROGRESS
+=====================================

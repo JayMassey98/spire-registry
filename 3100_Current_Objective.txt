@@ -1,0 +1,29 @@
+[3100] CURRENT OBJECTIVE
+========================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the authoritative owner of the project's current objective,
+priorities, and success criteria.
+
+OBJECTIVE
+---------
+
+    To be completed.
+
+PRIORITIES
+----------
+
+    To be completed.
+
+SUCCESS CRITERIA
+----------------
+
+    To be completed.
+
+END OF [3100] CURRENT OBJECTIVE
+===============================

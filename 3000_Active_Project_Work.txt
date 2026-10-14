@@ -1,0 +1,77 @@
+[3000] ACTIVE PROJECT WORK
+==========================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the top-level owner for the Active Project Work series,
+defining its scope and organisation.
+
+The Active Project Work series contains information relating to current
+project execution and the achievement of project objectives.
+
+SYSTEM GOVERNANCE
+-----------------
+The Active Project Work series is part of the wider knowledge-base system.
+
+Ownership boundaries, hierarchy relationships, and evolution are defined in:
+
+    [0000] REGISTRY OVERVIEW
+
+CONTENT RULE
+------------
+Information in the Active Project Work series is likely to change frequently.
+
+The series includes:
+
+- current objectives
+- active tasks
+- execution planning
+- execution activities
+- immediate next actions
+
+The series does not normally contain:
+
+- established knowledge
+- enduring reference information
+- unresolved questions
+- supportive evidence
+- forensic analysis
+
+SERIES CONTENTS
+---------------
+
+[3100] CURRENT OBJECTIVE
+
+    Current project objective, priorities, and success criteria.
+
+[3200] NEXT ACTIONS
+
+    Immediate actionable tasks required to advance project progress.
+
+[3300] EXECUTION LOG
+
+    Chronological record of significant activities, discoveries, and decisions.
+
+ACTIVE PROJECT WORK RULE
+------------------------
+Information should remain within the Active Project Work series while it
+relates to activities that are actively planned or being performed.
+
+The Active Project Work series should answer:
+
+- What are we trying to achieve?
+- What have we recently done?
+- What should we do next?
+
+Once activities have been completed and are no longer actively driving project
+execution, they should only be retained where they provide ongoing value.
+
+The Active Project Work series exists to support execution rather than to act
+as a permanent repository for all project information.
+
+END OF [3000] ACTIVE PROJECT WORK
+=================================

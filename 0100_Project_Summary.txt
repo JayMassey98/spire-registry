@@ -1,0 +1,166 @@
+[0100] PROJECT SUMMARY
+======================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document provides a concise human-readable summary of the project.
+
+It exists to:
+
+- provide rapid project orientation
+- summarise the current project position
+- highlight important established knowledge
+- identify key unresolved questions
+- summarise current activity
+- highlight significant supporting evidence
+- direct readers to authoritative sources
+
+SUMMARY OWNERSHIP RULE
+----------------------
+This document summarises information owned elsewhere.
+
+This document must not become the authoritative owner of project information.
+
+Authoritative ownership remains with the originating document.
+
+If a discrepancy exists between this document and an owning document, the
+owning document takes precedence.
+
+SUMMARY SIZE RULE
+-----------------
+This document should remain concise.
+
+Information should be summarised rather than reproduced.
+
+Where detailed explanation is required, the reader should be directed to the
+authoritative owning document.
+
+This document exists to accelerate understanding.
+
+It does not replace the documents it summarises.
+
+PROJECT OVERVIEW
+----------------
+
+Project:
+
+    To be completed.
+
+Project Description:
+
+    To be completed.
+
+Current Stage:
+
+    To be completed.
+
+Current Status:
+
+    To be completed.
+
+Primary Objective:
+
+    To be completed.
+
+Current Focus:
+
+    To be completed.
+
+Authoritative sources:
+
+    To be completed.
+
+CURRENT STATUS
+--------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+CURRENT OBJECTIVE
+-----------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+KEY METRICS
+-----------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+KEY FINDINGS
+------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+OPEN QUESTIONS
+--------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+CURRENT RISKS
+-------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+RECENT SIGNIFICANT CHANGES
+--------------------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+IMMEDIATE NEXT ACTIONS
+----------------------
+
+Summary:
+
+    To be completed.
+
+Authoritative source:
+
+    To be completed.
+
+END OF [0100] PROJECT SUMMARY
+=============================

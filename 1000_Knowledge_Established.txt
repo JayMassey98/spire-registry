@@ -1,0 +1,74 @@
+[1000] KNOWLEDGE ESTABLISHED
+============================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the top-level owner for the Knowledge Established series,
+defining its scope and organisation.
+
+The Knowledge Established series contains information that is considered
+sufficiently understood, validated, and stable to form part of the established
+body of project knowledge.
+
+SYSTEM GOVERNANCE
+-----------------
+The Knowledge Established series is part of the wider knowledge-base system.
+
+Ownership boundaries, hierarchy relationships, and evolution are defined in:
+
+    [0000] REGISTRY OVERVIEW
+
+CONTENT RULE
+------------
+Information in the Knowledge Established series should be relatively stable.
+
+The series includes:
+
+- principles
+- context
+- reference information
+- validated findings
+- established decisions
+- enduring project knowledge
+
+The series does not normally contain:
+
+- unresolved questions
+- active investigations
+- current execution activities
+- action lists
+- supportive evidence
+- forensic analysis
+
+SERIES CONTENTS
+---------------
+
+[1100] PRINCIPLES AND CONTEXT
+
+    Principles, context, rationale, and enduring project understanding.
+
+[1200] REFERENCE INFORMATION
+
+    Reference material, systems, environments, and lookup information.
+
+[1300] VALIDATED FINDINGS
+
+    Proven conclusions that should not normally require reinvestigation.
+
+KNOWLEDGE ESTABLISHED RULE
+--------------------------
+Information should only be promoted into the Knowledge Established series when
+it is considered sufficiently understood and supported.
+
+Where significant uncertainty remains, the information should remain outside
+the Knowledge Established series until sufficient confidence has been achieved.
+
+Only information considered stable and established should become part of the
+Knowledge Established series.
+
+END OF [1000] KNOWLEDGE ESTABLISHED
+===================================

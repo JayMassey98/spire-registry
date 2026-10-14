@@ -1,0 +1,19 @@
+[1300] VALIDATED FINDINGS
+=========================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the authoritative owner of the project's proven conclusions,
+which should not normally require reinvestigation.
+
+FINDINGS
+--------
+
+    To be completed.
+
+END OF [1300] VALIDATED FINDINGS
+================================

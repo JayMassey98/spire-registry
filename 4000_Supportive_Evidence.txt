@@ -1,0 +1,87 @@
+[4000] SUPPORTIVE EVIDENCE
+==========================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the top-level owner for the Supportive Evidence series,
+defining its scope and organisation.
+
+The Supportive Evidence series contains information that supports, validates,
+justifies, or explains project conclusions, decisions, and activities.
+
+SYSTEM GOVERNANCE
+-----------------
+The Supportive Evidence series is part of the wider knowledge-base system.
+
+Ownership boundaries, hierarchy relationships, and evolution are defined in:
+
+    [0000] REGISTRY OVERVIEW
+
+CONTENT RULE
+------------
+Information in the Supportive Evidence series should explain why something is
+believed, accepted, rejected, or retained.
+
+The series includes:
+
+- retained evidence
+- validation results
+- supporting analysis
+- technical justification
+- forensic findings
+- retained hazards and failure modes
+
+The series does not normally contain:
+
+- established knowledge
+- unresolved questions
+- project objectives
+- action lists
+
+SERIES CONTENTS
+---------------
+
+[4100] RETAINED EVIDENCE
+
+    Retained evidence, analysis, justification, and proofs.
+
+SUPPORTIVE EVIDENCE RULE
+------------------------
+Evidence should be retained when it materially supports:
+
+- conclusions
+- decisions
+- findings
+- methodologies
+- investigations
+- historical understanding
+
+Supportive evidence may include:
+
+- successful validations
+- failed validations
+- confirmed hypotheses
+- rejected hypotheses
+- investigative dead ends
+- contradictory observations
+- forensic discoveries
+
+Evidence does not need to prove a conclusion in order to be valuable.
+
+Evidence that eliminates incorrect possibilities, records historical reasoning,
+or prevents repeated investigation may be retained where future value exists.
+
+The Supportive Evidence series should answer:
+
+- Why is this believed?
+- How was this validated?
+- What alternatives were considered?
+- What evidence exists?
+- What lessons were learned?
+
+END OF [4000] SUPPORTIVE EVIDENCE
+=================================

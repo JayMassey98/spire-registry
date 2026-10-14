@@ -1,0 +1,29 @@
+[1100] PRINCIPLES AND CONTEXT
+=============================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the authoritative owner of the project's principles, context,
+rationale, and enduring understanding.
+
+PRINCIPLES
+----------
+
+    To be completed.
+
+CONTEXT
+-------
+
+    To be completed.
+
+RATIONALE
+---------
+
+    To be completed.
+
+END OF [1100] PRINCIPLES AND CONTEXT
+====================================

@@ -1,0 +1,345 @@
+[0000] REGISTRY OVERVIEW
+========================
+
+LAST UPDATED
+------------
+2026-10-15
+
+PURPOSE
+-------
+This document is the authoritative entry point for the project knowledge base.
+
+It exists to:
+
+- provide navigation
+- define document ownership
+- define ownership boundaries
+- define governance rules
+- minimise duplication
+- provide a consistent continuation entry point
+
+Authoritative project information is defined by the files referenced within
+this knowledge base.
+
+If multiple files appear to conflict:
+
+- current validated state overrides superseded state
+- proven findings remain authoritative unless contradicted by stronger evidence
+- each fact is owned by a single authoritative file
+
+DOCUMENTATION GOVERNANCE RULES
+==============================
+
+KNOWLEDGE-BASE GOVERNANCE RULE
+------------------------------
+This document owns the structure and governance of the knowledge base.
+
+Rules concerning:
+
+- document organisation
+- document ownership
+- numbering conventions
+- navigation
+- update behaviour
+- splitting behaviour
+- authoritative-source policy
+- documentation governance
+
+belong in this document.
+
+Project facts, evidence, proofs, investigations, and project data belong in
+their owning documents.
+
+This document governs the system.
+
+It does not own project knowledge.
+
+DOCUMENT TEMPLATE RULE
+----------------------
+All knowledge-base documents should follow a consistent structure wherever
+practical.
+
+Documents should normally begin with:
+
+    [<IDENTIFIER>] <TITLE>
+
+    LAST UPDATED
+
+    PURPOSE
+
+followed by any content appropriate to the document's purpose.
+
+Documents should normally conclude with:
+
+    END OF [<IDENTIFIER>] <TITLE>
+
+using matching title formatting.
+
+AUTHORITATIVE OWNERSHIP RULE
+----------------------------
+Each significant fact must have exactly one authoritative home.
+
+Other documents may summarise that fact where appropriate but must not become
+competing authoritative sources.
+
+When deciding where new information belongs:
+
+    one fact
+    one owner
+
+AUTHORITATIVE DUPLICATION RULE
+------------------------------
+Information within a document must not be duplicated.
+
+When new information is added to a document it should be integrated into the
+existing structure rather than copied into multiple locations.
+
+If duplicate statements describe the same fact within a single document they
+should be merged into one authoritative statement.
+
+The knowledge base should minimise duplication wherever practical.
+
+RELOCATION RULE
+---------------
+When information is found to belong in a different document, move it to the
+correct owner rather than maintaining duplicate copies.
+
+Correct ownership takes precedence over preserving previous placement.
+
+DOCUMENT SILO RULE
+------------------
+Documents should be self-contained wherever practical.
+
+Cross-document references should be exceptional rather than routine.
+
+Clear ownership is preferred over extensive cross-linking.
+
+A topic should normally be understandable by reading:
+
+- its owning document
+- any parent navigation documents
+
+without requiring large numbers of unrelated documents.
+
+EVOLUTION RULE
+--------------
+The documentation structure below the top-level documents is expected to evolve
+naturally over time.
+
+Additional numbered documents may be introduced when justified by content
+growth, complexity, or maintainability concerns.
+
+Speculative future growth does not justify structural expansion.
+
+Existing numbering should be preserved where practical to maintain stable
+navigation and ownership boundaries.
+
+TOP-DOWN EXPANSION RULE
+-----------------------
+New topics should initially be created at the highest appropriate level of the
+numbering hierarchy.
+
+For example:
+
+    1100_...
+
+should be created before introducing:
+
+    1110_...
+    1120_...
+    1130_...
+
+The preferred approach is:
+
+    create at xx00
+    split later if required
+
+rather than pre-creating detailed document hierarchies.
+
+When a document grows sufficiently large or complex to justify subdivision,
+subordinate documents may be introduced beneath it.
+
+Where multiple distinct topic areas emerge at the same level of the hierarchy,
+additional sibling documents may be introduced within the same series.
+
+For example:
+
+    1100_...
+
+may later be supplemented by:
+
+    1200_...
+    1300_...
+    1400_...
+
+The original document remains the authoritative navigation, scope and ownership
+document for the subordinate series.
+
+The creation of subordinate documents does not transfer ownership away from the
+parent series.
+
+NAVIGATION RULE
+---------------
+The numbering hierarchy is the primary navigation mechanism.
+
+Avoid creating dependency chains, extensive cross-references, link webs, or
+other structures that weaken document ownership boundaries.
+
+CONTEXT MINIMISATION RULE
+-------------------------
+The documentation should minimise the amount of information required to
+continue work on a specific topic.
+
+Prefer structures that allow focused work using a small number of relevant
+documents rather than requiring large unrelated context loads.
+
+SERIES HEADERS
+--------------
+
+[0000] REGISTRY OVERVIEW
+
+    Top-level owner for ownership, governance, and navigation.
+
+[1000] KNOWLEDGE ESTABLISHED
+
+    Top-level owner for established, up-to-date project knowledge.
+
+[2000] RESOLUTIONS IN PROGRESS
+
+    Top-level owner for ongoing status and unresolved topics.
+
+[3000] ACTIVE PROJECT WORK
+
+    Top-level owner for active project execution activities.
+
+[4000] SUPPORTIVE EVIDENCE
+
+    Top-level owner for retained evidence, analysis, justification, and proofs.
+
+TOP-LEVEL DOCUMENT STRUCTURE
+----------------------------
+Numbers ending in 000 are reserved for top-level documents.
+
+Top-level documents define:
+
+- scope
+- ownership
+- navigation
+- organisation
+
+Top-level documents are not intended to become the primary home for detailed
+project information.
+
+Detailed project information belongs in subordinate documents.
+
+Subordinate documents use the remaining numbers within their series.
+
+A document's placement is determined by the nature of the information it
+contains, not by convenience of numbering.
+
+Do not place a document into a different area of the hierarchy solely to obtain
+a more desirable identifier.
+
+ARCHITECTURE STABILITY RULE
+---------------------------
+Top-level documents define the core architecture of the knowledge base.
+
+These documents form the stable architecture of the knowledge base and should
+not be modified as part of normal project work.
+
+The one routine exception is index maintenance: updating a top-level
+document's SERIES CONTENTS list to reflect the addition, renaming, or removal
+of a subordinate document does not constitute an architectural change.
+
+Changes to top-level document names, purposes, ownership boundaries, numbering
+allocations, relationships, or structure should be undertaken only when a
+significant architectural deficiency has been identified.
+
+Normal project evolution should occur through the creation, maintenance, and
+refinement of subordinate content documents rather than modification of the
+top-level architecture.
+
+The introduction of new project information should normally result in changes
+to subordinate content documents rather than top-level documents.
+
+The preferred approach is:
+
+    evolve content
+    before
+    evolving architecture
+
+Unless an explicit architectural review is being performed, the top-level
+documents should be considered effectively fixed.
+
+REGISTRY CONTENT RULE
+---------------------
+This document exists only to provide:
+
+- navigation
+- governance
+- structure
+- ownership
+- read order
+- documentation rules
+
+This document must not become the authoritative home for:
+
+- project status
+- objectives
+- proofs
+- evidence
+- investigations
+- implementation details
+- environment details
+- execution history
+
+Such information belongs in the documents that own those topics.
+
+READ ORDER
+----------
+
+For normal project continuation:
+
+1. [0000] REGISTRY OVERVIEW
+
+2. [0100] PROJECT SUMMARY
+
+3. Relevant documents outlined in the summary
+
+5. Supportive evidence only when required
+
+UPDATE RULES
+------------
+
+When updating documentation:
+
+- update the file that owns the information
+- avoid duplicating authoritative content
+- summarise where appropriate
+- reference rather than copy where practical
+- do not move topic ownership into the Registry Overview
+
+Each significant fact should have one authoritative home.
+
+Other documents may reference that fact but should not become competing
+authoritative sources.
+
+INVESTIGATION RULE
+------------------
+
+Do not reopen completed investigations unless at least one applies:
+
+- contradictory evidence exists
+- validation has failed
+- a material mechanism has changed
+- a genuinely new way to answer an unresolved question exists
+
+WORKING PRINCIPLE
+-----------------
+
+Whenever a choice exists between preservation and convenience:
+
+    PRESERVE FIRST, RATIONALISE LATER.
+
+END OF [0000] REGISTRY OVERVIEW
+===============================
